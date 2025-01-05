@@ -150,3 +150,4 @@
 2025-01-04 improve logging format [21]
 2025-01-05 enhance logging [1]
 2025-01-05 fix encoding issue [2]
+2025-01-05 add integration tests [3]
