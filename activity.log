@@ -179,3 +179,4 @@
 2025-01-06 upgrade dependencies [7]
 2025-01-06 add integration tests [8]
 2025-01-06 tweak configs [9]
+2025-01-06 fix encoding issue [10]
