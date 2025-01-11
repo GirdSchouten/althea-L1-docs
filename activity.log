@@ -385,3 +385,4 @@
 2025-01-11 better error handling [44]
 2025-01-11 improve performance [45]
 2025-01-11 fix typo in docs [46]
+2025-01-11 fix async issue [47]
