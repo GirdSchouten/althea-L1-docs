@@ -470,3 +470,4 @@
 2025-01-14 better error handling [15]
 2025-01-14 cleanup dependencies [16]
 2025-01-14 improve logging format [17]
+2025-01-14 fix misconfiguration [18]
