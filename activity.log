@@ -463,3 +463,4 @@
 2025-01-14 update schema migration [8]
 2025-01-14 update LICENSE [9]
 2025-01-14 simplify logic [10]
+2025-01-14 better error handling [11]
