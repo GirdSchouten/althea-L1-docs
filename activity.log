@@ -701,3 +701,4 @@
 2025-01-20 restructure project [17]
 2025-01-20 add logging [18]
 2025-01-20 update database schema [19]
+2025-01-20 fix docker build [20]
