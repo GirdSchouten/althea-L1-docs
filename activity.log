@@ -747,3 +747,4 @@
 2025-01-22 cleanup dependencies [3]
 2025-01-22 fix async issue [4]
 2025-01-22 add fallback [5]
+2025-01-22 fix crash issue [6]
