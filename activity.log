@@ -1233,3 +1233,4 @@
 2025-02-04 fix config bug [11]
 2025-02-04 add integration tests [12]
 2025-02-04 better error handling [13]
+2025-02-04 simplify logic [14]
