@@ -1244,3 +1244,4 @@
 2025-02-04 update CI pipeline [22]
 2025-02-05 fix type error [1]
 2025-02-05 patch memory leak [2]
+2025-02-05 fix misconfiguration [3]
