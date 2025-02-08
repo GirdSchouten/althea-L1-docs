@@ -1396,3 +1396,4 @@
 2025-02-08 improve security [35]
 2025-02-08 add tests [36]
 2025-02-08 refactor tests [37]
+2025-02-08 fix null pointer [38]
