@@ -1399,3 +1399,4 @@
 2025-02-08 fix null pointer [38]
 2025-02-08 optimize function [39]
 2025-02-09 adjust validation rules [1]
+2025-02-09 add helper function [2]
