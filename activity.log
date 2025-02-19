@@ -1751,3 +1751,4 @@
 2025-02-19 fix broken link [16]
 2025-02-19 update logging [17]
 2025-02-19 update API endpoints [18]
+2025-02-19 better error handling [19]
