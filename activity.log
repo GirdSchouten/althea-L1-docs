@@ -1819,3 +1819,4 @@
 2025-02-21 add integration tests [12]
 2025-02-21 change configuration [13]
 2025-02-21 fix warnings [14]
+2025-02-21 better error handling [15]
