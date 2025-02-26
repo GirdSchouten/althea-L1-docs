@@ -1981,3 +1981,4 @@
 2025-02-25 stabilize build [36]
 2025-02-26 update docs with examples [1]
 2025-02-26 fix null pointer [2]
+2025-02-26 fix config bug [3]
