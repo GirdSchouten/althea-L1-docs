@@ -2024,3 +2024,4 @@
 2025-02-27 patch memory leak [3]
 2025-02-27 improve caching [4]
 2025-02-27 add integration tests [5]
+2025-02-27 better error handling [6]
