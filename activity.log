@@ -2021,3 +2021,4 @@
 2025-02-26 UI improvements [40]
 2025-02-27 reformat code [1]
 2025-02-27 update linter rules [2]
+2025-02-27 patch memory leak [3]
