@@ -2261,3 +2261,4 @@
 2025-03-06 reorganize files [3]
 2025-03-06 update constants [4]
 2025-03-06 cleanup dependencies [5]
+2025-03-06 better error handling [6]
