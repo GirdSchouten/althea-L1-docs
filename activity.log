@@ -2375,3 +2375,4 @@
 2025-03-09 fix config bug [23]
 2025-03-09 add logging [24]
 2025-03-10 remove legacy code [1]
+2025-03-10 update configs for prod [2]
