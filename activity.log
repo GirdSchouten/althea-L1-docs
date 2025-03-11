@@ -2420,3 +2420,4 @@
 2025-03-10 add example file [44]
 2025-03-11 adjust validation rules [1]
 2025-03-11 hotfix applied [2]
+2025-03-11 fix docker build [3]
