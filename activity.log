@@ -2767,3 +2767,4 @@
 2025-03-21 simplify logic [16]
 2025-03-21 update schema migration [17]
 2025-03-21 fix bug [18]
+2025-03-21 fix CI errors [19]
