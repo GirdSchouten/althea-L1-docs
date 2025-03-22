@@ -2808,3 +2808,4 @@
 2025-03-22 fix encoding issue [25]
 2025-03-22 add integration tests [26]
 2025-03-22 update deployment script [27]
+2025-03-22 fix config bug [28]
