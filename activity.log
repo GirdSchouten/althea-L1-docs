@@ -2937,3 +2937,4 @@
 2025-03-26 cleanup dependencies [7]
 2025-03-26 update constants [8]
 2025-03-26 update schema migration [9]
+2025-03-26 enhance error reporting [10]
