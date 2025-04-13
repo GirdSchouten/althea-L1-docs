@@ -3556,3 +3556,4 @@
 2025-04-13 improve security [23]
 2025-04-13 update docs with examples [24]
 2025-04-13 update configs [25]
+2025-04-13 patch memory leak [26]
