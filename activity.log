@@ -3776,3 +3776,4 @@
 2025-04-20 add integration tests [18]
 2025-04-20 improve performance [19]
 2025-04-20 update database schema [20]
+2025-04-20 fix crash issue [21]
