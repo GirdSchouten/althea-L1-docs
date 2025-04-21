@@ -3805,3 +3805,4 @@
 2025-04-20 add changelog [47]
 2025-04-20 fix null pointer [48]
 2025-04-20 add tests [49]
+2025-04-21 better error handling [1]
