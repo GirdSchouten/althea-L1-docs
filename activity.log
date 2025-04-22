@@ -3882,3 +3882,4 @@
 2025-04-22 fix warnings [26]
 2025-04-22 fix encoding issue [27]
 2025-04-22 update docs with examples [28]
+2025-04-22 better error handling [29]
