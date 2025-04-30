@@ -4154,3 +4154,4 @@
 2025-04-29 add tests [39]
 2025-04-30 fix crash issue [1]
 2025-04-30 fix async issue [2]
+2025-04-30 better error handling [3]
