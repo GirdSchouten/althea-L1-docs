@@ -4355,3 +4355,4 @@
 2025-05-05 update deployment script [43]
 2025-05-06 improve caching [1]
 2025-05-06 fix config bug [2]
+2025-05-06 better error handling [3]
