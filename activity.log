@@ -4650,3 +4650,4 @@
 2025-05-13 upgrade dependencies [41]
 2025-05-14 remove legacy code [1]
 2025-05-14 fix CI errors [2]
+2025-05-14 add tests [3]
