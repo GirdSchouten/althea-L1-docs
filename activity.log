@@ -4846,3 +4846,4 @@
 2025-05-18 fix bug [41]
 2025-05-18 fix config bug [42]
 2025-05-19 stabilize build [1]
+2025-05-19 fix null pointer [2]
