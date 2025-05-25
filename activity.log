@@ -5079,3 +5079,4 @@
 2025-05-25 add example file [16]
 2025-05-25 update API endpoints [17]
 2025-05-25 fix config bug [18]
+2025-05-25 fix docker build [19]
