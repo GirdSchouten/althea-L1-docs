@@ -5243,3 +5243,4 @@
 2025-05-31 cleanup dependencies [2]
 2025-05-31 add sample data [3]
 2025-05-31 fix build error [4]
+2025-05-31 update schema migration [5]
