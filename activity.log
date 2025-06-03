@@ -5322,3 +5322,4 @@
 2025-06-02 fix permission issue [24]
 2025-06-02 add integration tests [25]
 2025-06-02 cleanup dependencies [26]
+2025-06-03 better error handling [1]
