@@ -5377,3 +5377,4 @@
 2025-06-04 fix timezone issue [22]
 2025-06-04 fix typo in docs [23]
 2025-06-04 add sample data [24]
+2025-06-04 patch memory leak [25]
