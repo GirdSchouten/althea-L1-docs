@@ -5471,3 +5471,4 @@
 2025-06-07 enhance logging [9]
 2025-06-07 minor tweaks [10]
 2025-06-07 patch memory leak [11]
+2025-06-07 fix misconfiguration [12]
