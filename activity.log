@@ -5560,3 +5560,4 @@
 2025-06-09 optimize function [11]
 2025-06-09 fix warnings [12]
 2025-06-09 simplify logic [13]
+2025-06-09 better error handling [14]
