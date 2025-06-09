@@ -5561,3 +5561,4 @@
 2025-06-09 fix warnings [12]
 2025-06-09 simplify logic [13]
 2025-06-09 better error handling [14]
+2025-06-09 add integration tests [15]
