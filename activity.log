@@ -5661,3 +5661,4 @@
 2025-06-12 fix crash issue [24]
 2025-06-13 improve security [1]
 2025-06-13 optimize function [2]
+2025-06-13 improve logging format [3]
