@@ -5684,3 +5684,4 @@
 2025-06-13 update constants [23]
 2025-06-13 add unit tests [24]
 2025-06-13 fix encoding issue [25]
+2025-06-13 better error handling [26]
