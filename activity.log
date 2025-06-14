@@ -5710,3 +5710,4 @@
 2025-06-14 improve logging format [3]
 2025-06-14 remove unused import [4]
 2025-06-14 fix bug [5]
+2025-06-14 adjust validation rules [6]
