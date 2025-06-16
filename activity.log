@@ -5811,3 +5811,4 @@
 2025-06-16 update gitignore [21]
 2025-06-16 improve caching [22]
 2025-06-16 reorganize files [23]
+2025-06-16 fix null pointer [24]
