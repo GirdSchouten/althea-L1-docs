@@ -5826,3 +5826,4 @@
 2025-06-16 fix timezone issue [36]
 2025-06-17 improve maintainability [1]
 2025-06-17 update scripts [2]
+2025-06-17 remove deprecated code [3]
