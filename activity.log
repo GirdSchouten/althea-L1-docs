@@ -5892,3 +5892,4 @@
 2025-06-18 update README [42]
 2025-06-18 update API docs [43]
 2025-06-18 update database schema [44]
+2025-06-19 fix null pointer [1]
