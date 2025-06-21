@@ -5972,3 +5972,4 @@
 2025-06-21 fix async issue [21]
 2025-06-21 update build script [22]
 2025-06-21 better error handling [23]
+2025-06-21 add integration tests [24]
