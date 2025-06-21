@@ -5959,3 +5959,4 @@
 2025-06-21 restructure project [8]
 2025-06-21 improve logging format [9]
 2025-06-21 better error handling [10]
+2025-06-21 fix misconfiguration [11]
