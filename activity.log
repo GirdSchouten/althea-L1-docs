@@ -5970,3 +5970,4 @@
 2025-06-21 cleanup dependencies [19]
 2025-06-21 update configs for prod [20]
 2025-06-21 fix async issue [21]
+2025-06-21 update build script [22]
