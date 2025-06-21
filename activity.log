@@ -5974,3 +5974,4 @@
 2025-06-21 better error handling [23]
 2025-06-21 add integration tests [24]
 2025-06-21 patch memory leak [25]
+2025-06-21 remove legacy code [26]
