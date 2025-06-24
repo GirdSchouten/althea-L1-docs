@@ -6089,3 +6089,4 @@
 2025-06-24 cleanup dependencies [27]
 2025-06-24 add tests [28]
 2025-06-24 fix async issue [29]
+2025-06-24 update schema migration [30]
