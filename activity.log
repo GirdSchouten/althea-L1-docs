@@ -6102,3 +6102,4 @@
 2025-06-24 add example file [40]
 2025-06-24 fix config bug [41]
 2025-06-24 reduce complexity [42]
+2025-06-24 better error handling [43]
