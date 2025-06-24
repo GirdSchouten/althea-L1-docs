@@ -6085,3 +6085,4 @@
 2025-06-24 fix async issue [23]
 2025-06-24 fix warnings [24]
 2025-06-24 update deployment script [25]
+2025-06-24 fix null pointer [26]
