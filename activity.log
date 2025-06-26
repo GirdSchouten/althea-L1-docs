@@ -6175,3 +6175,4 @@
 2025-06-26 add sample data [24]
 2025-06-26 fix typo in docs [25]
 2025-06-26 improve logging format [26]
+2025-06-26 better error handling [27]
