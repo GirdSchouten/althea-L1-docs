@@ -6445,3 +6445,4 @@
 2025-07-02 update gitignore [21]
 2025-07-02 fix warnings [22]
 2025-07-02 minor tweaks [23]
+2025-07-02 fix docker build [24]
