@@ -6572,3 +6572,4 @@
 2025-07-05 increase test coverage [48]
 2025-07-05 fix docker build [49]
 2025-07-05 reduce complexity [50]
+2025-07-06 remove deprecated code [1]
