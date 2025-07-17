@@ -6926,3 +6926,4 @@
 2025-07-17 fix encoding issue [26]
 2025-07-17 update configs [27]
 2025-07-17 small refactor [28]
+2025-07-17 better error handling [29]
