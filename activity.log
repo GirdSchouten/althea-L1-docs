@@ -6949,3 +6949,4 @@
 2025-07-18 update linter rules [10]
 2025-07-18 update schema migration [11]
 2025-07-18 update configs [12]
+2025-07-18 fix async issue [13]
