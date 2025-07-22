@@ -7061,3 +7061,4 @@
 2025-07-22 improve logging format [3]
 2025-07-22 fix misconfiguration [4]
 2025-07-22 enhance error reporting [5]
+2025-07-22 add helper function [6]
