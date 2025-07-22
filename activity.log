@@ -7096,3 +7096,4 @@
 2025-07-22 patch memory leak [38]
 2025-07-22 remove test code [39]
 2025-07-22 improve caching [40]
+2025-07-22 add helper function [41]
