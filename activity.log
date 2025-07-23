@@ -7127,3 +7127,4 @@
 2025-07-23 fix crash issue [22]
 2025-07-23 update schema migration [23]
 2025-07-23 improve performance [24]
+2025-07-23 upgrade dependencies [25]
