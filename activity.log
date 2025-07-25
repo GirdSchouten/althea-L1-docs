@@ -7220,3 +7220,4 @@
 2025-07-25 improve logging format [19]
 2025-07-25 initial commit [20]
 2025-07-25 better error handling [21]
+2025-07-25 fix config bug [22]
