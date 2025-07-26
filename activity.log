@@ -7266,3 +7266,4 @@
 2025-07-26 fix typo in docs [22]
 2025-07-26 optimize function [23]
 2025-07-26 fix build error [24]
+2025-07-26 add fallback [25]
