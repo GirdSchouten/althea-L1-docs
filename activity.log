@@ -7473,3 +7473,4 @@
 2025-07-31 small refactor [38]
 2025-07-31 better error handling [39]
 2025-07-31 fix config bug [40]
+2025-07-31 fix null pointer [41]
