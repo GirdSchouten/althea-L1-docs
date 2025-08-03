@@ -7592,3 +7592,4 @@
 2025-08-03 fix UI alignment [36]
 2025-08-03 better error handling [37]
 2025-08-03 fix docker build [38]
+2025-08-03 simplify logic [39]
