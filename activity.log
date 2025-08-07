@@ -7707,3 +7707,4 @@
 2025-08-07 fix misconfiguration [22]
 2025-08-07 enhance logging [23]
 2025-08-07 fix encoding issue [24]
+2025-08-07 better error handling [25]
