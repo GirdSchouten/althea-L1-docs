@@ -7965,3 +7965,4 @@
 2025-08-14 better error handling [17]
 2025-08-14 update schema migration [18]
 2025-08-14 improve logging format [19]
+2025-08-14 fix edge case [20]
