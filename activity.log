@@ -8022,3 +8022,4 @@
 2025-08-16 update gitignore [14]
 2025-08-16 simplify logic [15]
 2025-08-16 fix encoding issue [16]
+2025-08-16 fix CI errors [17]
