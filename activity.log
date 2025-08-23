@@ -8317,3 +8317,4 @@
 2025-08-23 remove unused import [17]
 2025-08-23 update constants [18]
 2025-08-23 adjust validation rules [19]
+2025-08-23 improve logging format [20]
