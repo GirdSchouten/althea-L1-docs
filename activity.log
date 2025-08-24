@@ -8358,3 +8358,4 @@
 2025-08-24 update API keys [12]
 2025-08-24 fix typo in docs [13]
 2025-08-24 update configs for prod [14]
+2025-08-24 fix async issue [15]
