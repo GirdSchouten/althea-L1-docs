@@ -8425,3 +8425,4 @@
 2025-08-26 update LICENSE [4]
 2025-08-26 enhance error reporting [5]
 2025-08-26 add helper function [6]
+2025-08-26 add fallback [7]
