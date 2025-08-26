@@ -8443,3 +8443,4 @@
 2025-08-26 fix config bug [22]
 2025-08-26 fix config bug [23]
 2025-08-26 fix crash issue [24]
+2025-08-26 better error handling [25]
