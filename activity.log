@@ -8683,3 +8683,4 @@
 2025-09-03 update deployment script [15]
 2025-09-03 update configs for prod [16]
 2025-09-03 update database schema [17]
+2025-09-03 patch memory leak [18]
