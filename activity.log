@@ -8892,3 +8892,4 @@
 2025-09-09 fix timezone issue [28]
 2025-09-09 clean project structure [29]
 2025-09-09 add unit tests [30]
+2025-09-09 fix encoding issue [31]
