@@ -8919,3 +8919,4 @@
 2025-09-10 upgrade dependencies [18]
 2025-09-10 add example file [19]
 2025-09-10 enhance logging [20]
+2025-09-10 fix async issue [21]
