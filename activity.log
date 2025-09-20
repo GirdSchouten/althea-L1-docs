@@ -9221,3 +9221,4 @@
 2025-09-20 enhance logging [31]
 2025-09-20 fix build error [32]
 2025-09-20 remove deprecated code [33]
+2025-09-20 add helper function [34]
