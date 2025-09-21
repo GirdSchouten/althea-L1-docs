@@ -9261,3 +9261,4 @@
 2025-09-21 fix typo in docs [25]
 2025-09-21 fix timezone issue [26]
 2025-09-21 restructure modules [27]
+2025-09-21 better error handling [28]
