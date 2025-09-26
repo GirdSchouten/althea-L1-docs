@@ -9447,3 +9447,4 @@
 2025-09-25 fix build error [47]
 2025-09-26 fix bug [1]
 2025-09-26 small refactor [2]
+2025-09-26 better error handling [3]
