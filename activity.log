@@ -9584,3 +9584,4 @@
 2025-09-29 typo fix [26]
 2025-09-29 minor refactor [27]
 2025-09-29 remove unused import [28]
+2025-09-29 fix null pointer [29]
