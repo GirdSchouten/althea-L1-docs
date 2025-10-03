@@ -9719,3 +9719,4 @@
 2025-10-03 fix async issue [33]
 2025-10-03 enhance logging [34]
 2025-10-03 upgrade dependencies [35]
+2025-10-03 patch memory leak [36]
