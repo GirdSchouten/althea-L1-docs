@@ -9939,3 +9939,4 @@
 2025-10-09 add helper function [21]
 2025-10-09 optimize queries [22]
 2025-10-09 fix UI alignment [23]
+2025-10-09 update schema migration [24]
