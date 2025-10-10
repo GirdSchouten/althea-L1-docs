@@ -9957,3 +9957,4 @@
 2025-10-10 better error handling [10]
 2025-10-10 add unit tests [11]
 2025-10-10 increase test coverage [12]
+2025-10-10 fix crash issue [13]
