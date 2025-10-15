@@ -10136,3 +10136,4 @@
 2025-10-14 update version [36]
 2025-10-14 better error handling [37]
 2025-10-14 fix config bug [38]
+2025-10-15 patch memory leak [1]
