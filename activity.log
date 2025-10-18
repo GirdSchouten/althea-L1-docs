@@ -10247,3 +10247,4 @@
 2025-10-18 add helper function [16]
 2025-10-18 fix compatibility [17]
 2025-10-18 adjust timeout [18]
+2025-10-18 improve caching [19]
