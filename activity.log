@@ -10295,3 +10295,4 @@
 2025-10-19 add helper function [32]
 2025-10-19 update gitignore [33]
 2025-10-19 update deployment script [34]
+2025-10-19 fix permission issue [35]
