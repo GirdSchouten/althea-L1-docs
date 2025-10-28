@@ -10580,3 +10580,4 @@
 2025-10-28 fix crash issue [4]
 2025-10-28 improve docs [5]
 2025-10-28 cleanup dependencies [6]
+2025-10-28 better error handling [7]
