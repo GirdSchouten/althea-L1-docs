@@ -10684,3 +10684,4 @@
 2025-10-30 upgrade dependencies [26]
 2025-10-30 adjust error messages [27]
 2025-10-30 remove deprecated code [28]
+2025-10-30 fix config bug [29]
