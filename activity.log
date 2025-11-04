@@ -10810,3 +10810,4 @@
 2025-11-04 enhance logging [1]
 2025-11-04 fix edge case [2]
 2025-11-04 fix CI errors [3]
+2025-11-04 better error handling [4]
