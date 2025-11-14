@@ -11119,3 +11119,4 @@
 2025-11-13 upgrade dependencies [24]
 2025-11-14 adjust error messages [1]
 2025-11-14 temporary fix [2]
+2025-11-14 fix encoding issue [3]
