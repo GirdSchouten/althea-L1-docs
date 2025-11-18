@@ -11277,3 +11277,4 @@
 2025-11-18 fix crash issue [32]
 2025-11-18 update CI pipeline [33]
 2025-11-18 update schema migration [34]
+2025-11-18 add unit tests [35]
