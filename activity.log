@@ -11301,3 +11301,4 @@
 2025-11-19 fix null pointer [9]
 2025-11-19 update dependencies [10]
 2025-11-19 update configs [11]
+2025-11-19 better error handling [12]
