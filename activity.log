@@ -11504,3 +11504,4 @@
 2025-11-24 simplify logic [22]
 2025-11-24 fix edge case [23]
 2025-11-24 update build script [24]
+2025-11-24 fix null pointer [25]
