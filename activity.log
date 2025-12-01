@@ -11730,3 +11730,4 @@
 2025-12-01 cleanup dependencies [3]
 2025-12-01 update CI pipeline [4]
 2025-12-01 fix encoding issue [5]
+2025-12-01 stabilize build [6]
