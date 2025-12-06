@@ -11866,3 +11866,4 @@
 2025-12-05 remove unused import [36]
 2025-12-06 enhance logging [1]
 2025-12-06 typo fix [2]
+2025-12-06 fix edge case [3]
