@@ -11981,3 +11981,4 @@
 2025-12-08 update schema migration [40]
 2025-12-08 change configuration [41]
 2025-12-08 fix encoding issue [42]
+2025-12-08 add helper function [43]
