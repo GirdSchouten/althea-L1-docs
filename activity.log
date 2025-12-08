@@ -11968,3 +11968,4 @@
 2025-12-08 fix config bug [27]
 2025-12-08 temporary fix [28]
 2025-12-08 fix docker build [29]
+2025-12-08 fix CI errors [30]
