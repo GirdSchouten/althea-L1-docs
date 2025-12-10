@@ -12004,3 +12004,4 @@
 2025-12-09 stabilize build [20]
 2025-12-10 fix encoding issue [1]
 2025-12-10 stabilize build [2]
+2025-12-10 remove debug output [3]
