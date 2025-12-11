@@ -12030,3 +12030,4 @@
 2025-12-10 fix typo in docs [26]
 2025-12-10 optimize function [27]
 2025-12-10 optimize queries [28]
+2025-12-11 patch memory leak [1]
