@@ -12136,3 +12136,4 @@
 2025-12-13 update constants [28]
 2025-12-13 upgrade dependencies [29]
 2025-12-13 improve logging format [30]
+2025-12-13 fix encoding issue [31]
